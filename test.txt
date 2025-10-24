@@ -1,3 +1,0 @@
-Demo test git command
-New string in file
-Ещё одна изменённая строка
